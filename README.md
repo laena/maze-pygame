@@ -1,3 +1,7 @@
+# maze-pygame
+
+A simple retro-style maze quiz game using pygame
+
 ### Requirements
 
 - Python 2.x (tested with 2.7)
